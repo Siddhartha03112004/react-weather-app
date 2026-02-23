@@ -31,39 +31,6 @@ HTTP Requests: Fetch API
 Version Control: Git & GitHub
 
 
-📂 Project Structure
-mini-project-react/
-│
-├── public/
-│
-├── src/
-│   │
-│   ├── assets/
-│   │
-│   ├── components/
-│   │   ├── SearchBox/
-│   │   │   ├── SearchBox.jsx
-│   │   │   ├── SearchBox.css
-│   │   │
-│   │   ├── InfoBox/
-│   │   │   ├── InfoBox.jsx
-│   │   │   ├── InfoBox.css
-│   │   │
-│   │   ├── WeatherApp/
-│   │       ├── WeatherApp.jsx
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   ├── index.css
-│
-├── .gitignore
-├── index.html
-├── package.json
-├── package-lock.json
-├── eslint.config.js
-├── README.md
-
 ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
