@@ -69,17 +69,25 @@ mini-project-react/
 Follow these steps to run the project locally:
 
 1️⃣ Clone the repository
+
+
 git clone https://github.com/Siddhartha03112004/react-weather-app.git
 
 2️⃣ Navigate to project folder
+
+
 cd react-weather-app
 
 
 3️⃣ Install dependencies
+
+
 npm install
 
 
 4️⃣ Start development server
+
+
 npm start
 
 App will run at:
